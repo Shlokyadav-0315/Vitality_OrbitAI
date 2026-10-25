@@ -9,7 +9,7 @@
 > *Image upload, before-and-after comparison, highlighted change regions, and a simple report.*
 
 ---
-**Live Demo**- vitality-orbitai-2026.surge.sh
+**Live Demo**- https://vitality-orbitai-2026.surge.sh/
 
 ## 🛰️ Executive Summary
 
