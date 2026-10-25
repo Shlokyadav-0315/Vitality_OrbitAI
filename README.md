@@ -9,10 +9,12 @@
 > *Image upload, before-and-after comparison, highlighted change regions, and a simple report.*
 
 ---
+**Live Demo**- vitality-orbitai-2026.surge.sh
 
 ## 🛰️ Executive Summary
 
 **Vitality OrbitAI** is an automated satellite anomaly detection and surface change intelligence workbench. By processing multi-temporal satellite imagery (radar backscatter and multi-spectral optical data), the platform identifies surface transformations, isolates affected coordinates, computes spatial impact areas ($km^2$), and critically **differentiates natural geophysical phenomena from potential human-made environmental damage**.
+<img width="950" height="436" alt="image" src="https://github.com/user-attachments/assets/63759c3e-fdca-44d7-856d-f385ba648f08" />
 
 ---
 
@@ -33,6 +35,8 @@
   4. 🏗️ **Atacama Mineral Basin, Chile** ($2022 \rightarrow 2025$)  
      *Classification:* **Potential Human-Made Damage** (96.2% AI confidence)  
      *Anomaly Signature:* Massive terraced open-pit extraction, geometric brine evaporation ponds, and heavy-haul infrastructure.
+<img width="952" height="436" alt="Screenshot 2026-10-25 143726" src="https://github.com/user-attachments/assets/e545fae4-c9e4-4051-a28d-8a00d5ed323c" />
+
 
 ---
 
@@ -41,6 +45,7 @@
 - **Side-by-Side Synchronized Mode:** Dual-viewport synchronized visual inspection.
 - **Delta Difference Mask:** Color-coded differential intensity overlay isolating changed pixel clusters.
 - **Blink Comparator Mode:** Rapid 600ms alternating frame flicker (classic astronomical and orbital intelligence change detection).
+<img width="939" height="433" alt="Screenshot 2026-10-25 143743" src="https://github.com/user-attachments/assets/6e214e84-9699-410c-9fa2-96bd6940564f" />
 
 ---
 
